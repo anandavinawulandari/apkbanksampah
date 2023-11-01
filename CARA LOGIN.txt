@@ -1,0 +1,8 @@
+Login Admin
+email : admin@gmail.com
+password : admin123
+
+Login Client 
+(Belum dapat diakses, sehingga untuk login client masih jadi satu dengan admin. Tetapi, menu bagi client adalah DATA TRANSAKSI dan tidak dapat akses DATA SAMPAH)
+email : client@gmail.com
+password : client123
